@@ -1,32 +1,70 @@
-<!-- Banner -->
-<h1 align="center">Hi there, I'm Mai Thi Linh Chi 👋</h1>
+<div align="center">
+
+# 👋 LINH CHI
+
+### `BUSINESS ANALYST × SYSTEM THINKER`
+
+**I turn messy business problems into clear digital solutions.**
+
+`Requirements` · `Process` · `System` · `UAT` · `AI`
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/chimtlmtb-source)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
 
 ---
 
-### 💫 About Me
-💻 Building projects using **ReactJS**, **Next.js**, and **Node.js**  
-🥮 Creator of [**doctor_appointmen**](https://github.com/chimtlmtb-source/doctor_appointment)  
-📚 Always learning and improving my code  
+### 🧩 What I do
+
+```text
+Business Problem
+      ↓
+   Ask WHY
+      ↓
+Analyze Process
+      ↓
+Define Requirement
+      ↓
+Build the Solution
+      ↓
+     UAT ✓
+```
+
+### 🚀 Featured
+
+| 🐔 HULUX       | 🤖 GOV AI         | 🛡️ Safe Browser |
+| -------------- | ----------------- | ---------------- |
+| Smart Farming  | Public Service AI | Child Safety     |
+| Zalo · AI · QR | AI · Workflow     | Rules · UAT      |
+
+### 🛠️ My BA Stack
+
+`BRD` `SRS` `Use Case` `User Story` `UAT` `RTM`
+`Figma` `Jira` `Postman` `SQL` `API` `JSON`
+
+### 🤖 Currently thinking about
+
+> **How can AI turn a user's intention into a real business action?**
+
+```text
+Voice → Intent → Business Rules → System Action
+```
+
+### 🎯 Currently
+
+**IT Business Analyst · System Analysis · AI Products**
+
+> *Understand first. Question better. Build the right thing.*
 
 ---
 
-### 🛠️ Technologies & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,java,mysql,mongodb,vscode,git,github" />
-</p>
+<div align="center">
 
----
+`BA isn't about writing requirements.`
+`It's about understanding what actually needs to be built.`
 
-### 🌐 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
-### 🤓 Fun Fact
-> I once stayed up all night debugging just to realize I forgot a semicolon. 😅  
-
----
+</div>
